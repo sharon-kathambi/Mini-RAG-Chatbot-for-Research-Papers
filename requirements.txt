@@ -1,0 +1,4 @@
+cohere
+streamlit
+PyPDF2
+numpy
